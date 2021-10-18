@@ -1,4 +1,4 @@
-# previsao_preco_carros
+# Regressão Linear em preços de carros
 Previsão de preço de carros usados utilizando Regressão Linear
 
 ## Objetivo
