@@ -50,6 +50,6 @@ print(features_scale)
 ~~~
 
 ## Resultado
-O modelo conseguiu fazer uma boa aproximção dos reais preços dos carros, determinando se o carro vai ter um proço mais alto ou mais baixo.
+O modelo conseguiu fazer uma boa aproximção dos reais preços dos carros, determinando se o carro vai ter um preço mais alto ou mais baixo.
 
 
